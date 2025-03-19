@@ -9,7 +9,7 @@ class Home extends StatefulWidget {
   State<Home> createState() => _HomeState();
 }
 
-String bitecoValor = "0";
+String bitecoValor = "0.0";
 
 class _HomeState extends State<Home> {
   _valorBTC() async {
